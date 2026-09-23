@@ -1,0 +1,6 @@
+{
+  "name": "Florence WA Bot Server & JadiBot Cloud Hub",
+  "description": "Platform Manajemen Server Bot WhatsApp 24 Jam, Open JadiBot Pairing Code & Scan Barcode QR, Live Multi-Session Manager, dan Terminal Monitoring Real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
